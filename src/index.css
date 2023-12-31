@@ -1,0 +1,15 @@
+input{
+    width: 45%;
+    margin: 10px !important;
+}
+
+
+.Footer{
+    margin: 3%  0px !important;
+    padding: 5%;
+    background-color: #ced0d1;
+}
+
+#root{
+    background-color: #2f4a5a1f;
+}
